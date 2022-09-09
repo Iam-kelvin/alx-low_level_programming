@@ -1,5 +1,3 @@
-#!/bin/bash
-
 #include <stdio.h>
 /*
 	main - code to put a message

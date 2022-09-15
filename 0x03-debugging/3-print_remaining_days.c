@@ -5,7 +5,7 @@
  * how many days are there
  * @month: month in number format
  * @day: day of the month
- * @year: tge year in question
+ * @year: the year in question
  * Return: Always 0
  */
 

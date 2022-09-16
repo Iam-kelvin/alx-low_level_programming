@@ -30,7 +30,7 @@ int main(void)
 		num = num / i;
 		}
 	}
-	if (n > 2)
+	if (num > 2)
 		max = num;
 	printf("%ld\n", max);
 

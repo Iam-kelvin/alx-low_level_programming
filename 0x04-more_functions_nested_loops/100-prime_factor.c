@@ -6,7 +6,6 @@
  * largest prime factor of the number 612852475143
  * Return: The largest prime factor of 612852475143
  */
-
 int main(void)
 {
 

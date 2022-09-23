@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ * main - compares 2 strings
+ * Return: magic
+ */
+
 int main(void)
 {
 	 int n;

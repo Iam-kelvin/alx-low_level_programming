@@ -1,1 +1,1 @@
-his directory contains files regarding codes on static libraries
+Non empty readme, I'm tired

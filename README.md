@@ -1,1 +1,1 @@
-C is fun
+This is a prject on hash tables
